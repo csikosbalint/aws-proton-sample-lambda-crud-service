@@ -1,4 +1,4 @@
-# AWS Proton Sample Lambda CRUD API Service
+# AWS Proton Sample Lambda CRUD API Service_
 
 This sample application contains AWS Lambda function code to handle a CRUD API endpoint. This sample can be deployed with AWS Proton using the sample [Lambda CRUD API Service](https://github.com/aws-samples/aws-proton-sample-templates/tree/main/lambda-crud-svc) environment and service templates.
 
